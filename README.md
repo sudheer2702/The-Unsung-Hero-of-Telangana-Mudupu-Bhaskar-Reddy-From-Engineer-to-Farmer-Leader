@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <title>The Unsung Hero of Telangana: Mudupu Bhaskar Reddy</title>
+   <style>
+     body {
+       font-family: 'Georgia', serif;
+       background-color: #f4f1ec;
+       color: #2c2c2c;
+       margin: 0;
+       padding: 0;
+     }
+     header {
+       background-color: #5a8f42;
+       color: #fff;
+       padding: 1rem;
+       text-align: center;
+     }
+     header h1 {
+       margin: 0;
+       font-size: 2rem;
+     }
+     section {
+       padding: 2rem;
+       line-height: 1.6;
+       max-width: 900px;
+       margin: auto;
+     }
+     h2 {
+       color: #3d5a3a;
+       border-left: 5px solid #5a8f42;
+       padding-left: 0.5rem;
+     }
+     .highlight {
+       background-color: #e6f5e6;
+       padding: 1rem;
+       border-left: 5px solid #5a8f42;
+       margin: 1.5rem 0;
+     }
+     footer {
+       background-color: #3d5a3a;
+       color: white;
+       text-align: center;
+       padding: 1rem;
+     }
+   </style>
+ </head>
+ <body>
+   <header>
+     <h1>The Unsung Hero of Telangana: Mudupu Bhaskar Reddy</h1>
+     <p>From Engineer to Farmer-Leader</p>
+   </header>
+ 
+   <section>
+     <h2>Roots of Revolution: The Formative Years (1978–2001)</h2>
+     <p>Born in 1978 in Thirmanpally into a humble farmer's family, Bhaskar Reddy's early years were immersed in the harsh realities of rural Telangana—water scarcity, bureaucratic neglect, and agrarian despair. These hardships forged a future visionary.</p>
+     <p>After earning an engineering degree, he joined the Andhra Pradesh Irrigation Department in 2000, but what he discovered would change his path forever.</p>
+ 
+     <h2>The Turning Point: When Conscience Overcame Career</h2>
+     <div class="highlight">
+       <ul>
+         <li>Telangana received only 30% of its rightful water share</li>
+         <li>Deliberate delays in key irrigation projects</li>
+         <li>Manipulated official records to downplay Telangana’s needs</li>
+       </ul>
+     </div>
+     <p>He resigned in 2001, giving up a secure career to fight for justice from the grassroots level.</p>
+ 
+     <h2>Political Metamorphosis: Redefining Grassroots Leadership (2001–2014)</h2>
+     <p><strong>The Independent Crusader (2001–2006):</strong> Bhaskar Reddy won as an Independent ZPTC candidate on a bicycle campaign, exposing water injustice and empowering farmers.</p>
+     <p><strong>The Resignation Revolution (2004–2010):</strong></p>
+     <ul>
+       <li>2004: Resigned to protest water diversion – won with increased majority</li>
+       <li>2006: Formed Farmer-Water Boards, introduced social audits</li>
+       <li>2008: Resigned over fake farmer suicide data – won again</li>
+       <li>2010: Resigned demanding statehood – record 82% victory</li>
+     </ul>
+ 
+     <h2>The Movement Years: Blood, Sweat and Conviction (2009–2014)</h2>
+     <p>Refusing TRS tickets, he focused on grassroots action. In 2012’s Sagar Haaram movement, he survived bullet wounds and led protests from his hospital bed. In 2014, he declined an MLC offer, saying, “My work is in the fields, not assemblies.”</p>
+ 
+     <h2>Agricultural Renaissance: The Bhaskar Reddy Model (2014–Present)</h2>
+     <p>His farming philosophy integrates tradition and technology:</p>
+     <div class="highlight">
+       <ul>
+         <li>Soil-first principles & lunar planting cycles</li>
+         <li>Five-layer vertical cropping and biochar-enhanced soil</li>
+         <li>Solar-powered micro-irrigation & AI moisture sensors</li>
+       </ul>
+     </div>
+     <p><strong>Impact Comparison:</strong></p>
+     <ul>
+       <li>Yield: 50 quintals/acre vs 25–30 (conventional)</li>
+       <li>Input Cost: ₹4,500 vs ₹15,000</li>
+       <li>Water Use: 1.8 lakh liters vs 5 lakh</li>
+     </ul>
+ 
+     <h2>The Ripple Effect: Transforming Rural Telangana</h2>
+     <p>Through the <em>Rythu Gurukulam</em> (2016):</p>
+     <ul>
+       <li>12,500+ farmers trained</li>
+       <li>47 farm schools established</li>
+       <li>72% reduction in chemical fertilizers in adopted villages</li>
+     </ul>
+     <p><strong>Notable Stories:</strong></p>
+     <ul>
+       <li>Laxmi Marathi (22): From laborer to organic exporter (₹18L turnover)</li>
+       <li>Tech Farmers Group: IT returnees applying his model</li>
+       <li>Divyang Collective: 100% differently-abled run organic farm</li>
+     </ul>
+ 
+     <h2>Accolades and Recognition</h2>
+     <p><strong>National:</strong> Adarsh Rythu Award (2018)</p>
+     <p><strong>International:</strong> COP28 Farmers Summit Speaker, model adopted in 7 countries</p>
+ 
+     <h2>The Living Legacy: What Makes Him Unique</h2>
+     <ul>
+       <li>Refused 5 political positions</li>
+       <li>Engineer who chose mud over concrete</li>
+       <li>Out-earns professionals through farming</li>
+       <li>Traditionalist blending technology</li>
+       <li>Global impact from a local movement</li>
+     </ul>
+   </section>
+ 
+   <footer>
+     <p>&copy; 2025 The Legacy of Mudupu Bhaskar Reddy. All rights reserved.</p>
+   </footer>
+ </body>
+ </html>
